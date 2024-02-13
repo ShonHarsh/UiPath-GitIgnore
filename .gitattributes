@@ -1,5 +1,7 @@
 # Automatically normalize line endings for text files
 * text=auto
 
-# Language VB.Net
-\*\.md linguist-detectable=false
+##################################
+### Markdown                   ###
+##################################
+*.md linguist-detectable=true

@@ -2,4 +2,4 @@
 * text=auto
 
 # Language VB.Net
-*.md linguist-detectable=true
+\*\.md linguist-detectable=false

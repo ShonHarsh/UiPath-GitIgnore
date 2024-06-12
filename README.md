@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-01.png)
 
 # UiPath-GitIgnore
 

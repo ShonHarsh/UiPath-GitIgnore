@@ -10,32 +10,12 @@ Download or create the .gitignore file and put it in the root of the project.  T
 
 ### Details
 ```sh
-##################################
-### UiPath Ignore Folders      ###
-##################################
-## Ignore .local folder
-.local
-.local/*
-/.local
-/.local/*
-
-## Ignore .objects folder
-.objects
-.objects/*
-/.objects
-/.objects/*
-
-## Ignore .settings folder
-.settings
-.settings/*
-/.settings
-/.settings/*
-
-## Ignore .tmh folder
-.tmh
-.tmh/*
-/.tmh
-/.tmh/*
+# UiPath RPA Development
+**/*.log
+**/.local/**
+**/.objects/**
+**/.settings/**
+**/.tmh/**
 ```
 
 ### Links

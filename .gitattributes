@@ -6,10 +6,3 @@
 *.md linguist-documentation=false
 *.md linguist-generated=false
 *.md linguist-vendored=false
-
-# UiPath RPA Development
-**/*.log
-**/.local/**
-**/.objects/**
-**/.settings/**
-**/.tmh/**

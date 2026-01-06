@@ -11,11 +11,14 @@ Download or create the .gitignore file and put it in the root of the project.  T
 ### Details
 ```sh
 # UiPath RPA Development
-**/*.log
-**/.local/**
-**/.objects/**
-**/.settings/**
-**/.tmh/**
+/.local/
+/.objects/
+/.settings/
+/.tmh/
+/Exception_Screenshots/
+*.log
+*.screenshot
+*.xaml.local
 ```
 
 ### Links
